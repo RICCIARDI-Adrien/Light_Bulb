@@ -1,0 +1,10 @@
+*.asm
+*.brws
+*.casm
+*.cof
+*.lst
+*.map
+*.obj
+*.stat
+*.tree
+Software/Debug

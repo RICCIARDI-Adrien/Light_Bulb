@@ -1,0 +1,13 @@
+[Settings]
+Target=PIC12F629
+Active Compiler=BoostC
+Active Directory=C:\cygwin64\home\MCU\Light_Bulb\Software\
+Active Config=Release
+Last Ext=c
+Last ExtIdx=1
+Last Dir=C:\Program Files (x86)\SourceBoost\include\
+[Files]
+Count=1
+File0=Main.c
+[Debugger]
+DebugFromMain=1
